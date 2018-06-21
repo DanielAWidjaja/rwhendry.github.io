@@ -1,13 +1,14 @@
 {
-  "main.css": "static/css/main.7222c848.css",
-  "main.css.map": "static/css/main.7222c848.css.map",
-  "main.js": "static/js/main.a4138224.js",
-  "main.js.map": "static/js/main.a4138224.js.map",
+  "main.css": "static/css/main.fb6ebb97.css",
+  "main.css.map": "static/css/main.fb6ebb97.css.map",
+  "main.js": "static/js/main.28d2922e.js",
+  "main.js.map": "static/js/main.28d2922e.js.map",
   "static/media/iatoki.jpg": "static/media/iatoki.135ee72d.jpg",
   "static/media/kiloin.jpg": "static/media/kiloin.6b344b8a.jpg",
   "static/media/logoui.jpg": "static/media/logoui.266a7eca.jpg",
   "static/media/rey1.jpg": "static/media/rey1.af5fd3f0.jpg",
   "static/media/rwhendry1.jpg": "static/media/rwhendry1.2e63ed69.jpg",
   "static/media/savedmessage.jpg": "static/media/savedmessage.c11a32ae.jpg",
-  "static/media/sirclo.jpg": "static/media/sirclo.f3af62a5.jpg"
+  "static/media/sirclo.jpg": "static/media/sirclo.f3af62a5.jpg",
+  "static/media/tictactoe.jpg": "static/media/tictactoe.c5edd5b7.jpg"
 }
